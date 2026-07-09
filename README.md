@@ -1,2 +1,2 @@
-# BOOSTRAP
+# BOOTSTRAP
 Basic to advance Boostrap
